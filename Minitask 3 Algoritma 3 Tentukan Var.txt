@@ -1,7 +1,0 @@
-Minitask 3 Algoritma 3 Tentukan Variable X Ganjil / Genap
-
-1.Mulai 
-2.Ketahui nilai X 
-3.Jika nilai x % 2 = 0 maka nilai genap
-4.Jika nilai x % 2 !== 0 maka nilai ganjil
-5.Selesai
