@@ -1,9 +1,0 @@
-Minitask Algoritma Memindahkan Air didalam gelas 
-
-1.Mulai
-2.Siapkan 2 gelas air yang ingin di pindahkan (Gelas Pertama Teh , Gelas Kedua Kopi)
-3.Siapkan 1 Gelas Kosong(Gelas Ketiga)
-4.Tuangkan Air Teh Gelas pertama kedalam gelas kosong (ketiga)
-5.Tuangkan Air Kopi Gelas kedua kedalam gelas pertama 
-6.Tuangkan Air Teh Gelas Ketiga kedalam gelas kedua
-7.Selesai
