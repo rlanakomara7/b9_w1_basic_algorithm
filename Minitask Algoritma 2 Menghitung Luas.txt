@@ -1,0 +1,7 @@
+Minitask Algoritma 2 Menghitung Luas Keliling Lingkaran
+
+1.Mulai
+2.Tentukan nilai dari r (jari-jari) dan const phi (3.14 / 22/7)
+3.Lakukan Perhitungan untuk nilai luas = phi x r x r
+4.Lakukan Perhitungan untuk nilai keliling = 2 x  phi x r
+5.selesai
