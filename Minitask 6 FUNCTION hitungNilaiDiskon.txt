@@ -1,0 +1,13 @@
+FUNCTION hitungNilaiDiskon
+	DECLARE nilaiBelanja,diskon:num
+BEGIN 
+INPUT (nilaiBelanja)
+IF nilaiBelanja < 500000 
+	diskon = 0
+ELSE IF nilaiBelanja < 1000000 
+	diskon = nilaiBelanja * 0.05 
+ELSE 
+	diskon = nilaiBelanja * 0.10
+END IF 
+totalBayar = nilaiBelanja - diskon 
+OUTPUT ("Total Bayar=", totalBayar)
