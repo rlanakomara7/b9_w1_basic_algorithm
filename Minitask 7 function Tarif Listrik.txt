@@ -1,0 +1,20 @@
+function tarifListrik
+	DECLARE pemakaianKwh,hargaListrik,totalBayarListrik:num
+BEGIN 
+    	INPUT (pemakaianKwh)
+    	
+	IF pemakaiankwh <= 100 kwh
+        	hargaListrik = 2000  
+    
+	ELSE IF pemakaianKwh <= 200 kwh
+         	hargaListrik = 3000 
+    	
+	ELSE 
+         	hargaListrik = 5000
+    	END IF
+
+    	totalBayarListrik = pemakaiankwh * hargaListrik
+    
+    	OUTPUT ("totalBayarListrik = ", totalBayarListrik)
+
+END	

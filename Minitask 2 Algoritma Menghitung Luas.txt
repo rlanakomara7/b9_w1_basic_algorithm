@@ -1,0 +1,9 @@
+Minitask Algoritma 2 , Siswa Menghitung Luas Keliling Lingkaran
+
+1.Mulai
+2.Ketahui nilai dari r (jari-jari) dan phi (3.14 / 22/7)
+3.Jika nilai r habis dibagi 7 gunakan phi 22/7
+4.Jika nilai r tidak habis dibagi 7 gunakan 3.14
+5.Lakukan Perhitungan untuk nilai luas = phi x r x r
+6.Lakukan Perhitungan untuk nilai keliling = 2 x  phi x r
+7.selesai

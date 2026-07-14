@@ -1,0 +1,7 @@
+Minitask 3 Algoritma 3 Tentukan Variable X Ganjil / Genap
+
+1.Mulai 
+2.Masukan nilai X 
+3.Jika nilai x habis dibagi 2 maka nilai genap
+4.Jika nilai x tidak habis dibagi 2 maka nilai ganjil
+5.Selesai
